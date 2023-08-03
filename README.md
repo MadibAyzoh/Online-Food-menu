@@ -21,5 +21,5 @@ Back-end:Python
 5. Cybersecurity Threats: Cybercriminals may attempt to exploit vulnerabilities in the website's code, leading to potential hacking, malware injections, or other cyber attacks.
 6. Reputation Management: Negative feedback or public relations issues, such as mishandled customer complaints, can damage the platform's reputation and deter potential customers.
 ## Architectural Diagrams
-Flowchart
+### Flowchart
 ![Online Food App](https://github.com/MadibAyzoh/Online-Food-menu/assets/100390524/5446323f-8715-4465-945d-0b9e32223d3e)
