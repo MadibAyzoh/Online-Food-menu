@@ -1,4 +1,4 @@
-# ONLINE FOOD APP
+# ONLINE FOOD MENU APP
 ## Description
 Foodie Hub is a user-friendly and efficient online food ordering website application that connects hungry customers with a wide selection of local restaurants. With a simple and intuitive interface, users can browse through various cuisines, explore menus, and place orders effortlessly. The platform offers real-time tracking of orders, ensuring customers know exactly when to expect their delicious meals. Foodie Hub also allows users to customize their orders, add special instructions, and securely make payments online. Whether it's a quick lunch, a family dinner, or a special occasion, Food Corner is the go-to platform for convenient and delightful dining experiences, all from the comfort of your home.
 ##  Technologies used
